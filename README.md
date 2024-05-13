@@ -1,5 +1,5 @@
 ```
-# Image Pixel Manipulation
+# Pixel Manipulation For Image Encryption
 
 This Python script allows you to encrypt and decrypt images using a simple encryption algorithm. It uses the Python Imaging Library (PIL) to handle image operations.
 
